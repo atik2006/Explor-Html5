@@ -1,0 +1,22 @@
+h1 {
+    color: greenyellow;
+    text-align: center;
+}
+
+.new-video {
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.new-audio {
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: orangered;
+}
+
+.somthing {
+    font-size: 22px;
+    color: rgb(80, 255, 159);
+}
